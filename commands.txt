@@ -1,0 +1,19 @@
+git clone https://github.com/fathimaps18042001/sample.git
+
+git and github
+
+alternatives: AWS,bitbucket,gitlab
+
+git add . >> add the file to the staging alternatives(file is being tracked by git)
+
+git commit -m "message" >>> to commit the changes in the tracked file
+
+git push orgin main >>> pushing the file to the main branch in Github repository
+
+git add file name
+
+git add .
+
+
+
+
